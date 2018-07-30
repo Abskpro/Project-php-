@@ -1,0 +1,11 @@
+
+.whole{
+    float:left;
+    font-weight:bold;
+    text-align:center;
+    margin-left: 200px;
+}
+.question_answer{
+    float:bottom;
+    border:1px sodlid black;
+}
